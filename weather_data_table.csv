@@ -1,0 +1,6 @@
+City,General Condition,Detailed Condition,Temperature (°C),Humidity (%),Wind Speed (m/s),Cloudiness (%),"Rain Volume (1h, mm)","Snow Volume (1h, mm)"
+New York,Clear,clear sky,9.51,43,6.69,0,0.0,0
+Praha,Clouds,broken clouds,9.9,78,3.09,75,0.0,0
+Brno,Clouds,scattered clouds,9.53,74,4.63,40,0.0,0
+Ostrava,Rain,light rain,9.85,81,3.09,75,0.37,0
+Pyšely,Clouds,overcast clouds,8.99,73,2.8,99,0.0,0
